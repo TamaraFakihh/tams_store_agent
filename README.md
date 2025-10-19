@@ -89,7 +89,7 @@ Click the link to open the app in your browser and start chatting with Tam's Sto
 
 The project is deployed live on Hugging Face Spaces 🎉
 
-👉 [Click here to try Tam's Store Agent](https://huggingface.co/spaces/your-username/tams-store-agent)
+👉 [Click here to try Tam's Store Agent](https://tamarafakih-tams-store-agent.hf.space/)
 
 This public deployment runs directly on Hugging Face's infrastructure using Gradio and securely loads the API key from Hugging Face Secrets (so no .env file is exposed).  
 You can interact with the assistant, test customer queries, and explore its responses live — no local setup needed.
@@ -151,10 +151,10 @@ api_key = os.getenv("OPENAI_API_KEY")
 
 ## 👩‍💻 Author
 Tamara Fakih
-🎓 American University of Beirut (AUB)
-📧 tmf14@mail.aub.edu
-💼 EECE503P – AI Starter Kit Project
-💬 Passionate about applied AI, business automation, and conversational interfaces.
+- 🎓 American University of Beirut (AUB)
+- 📧 tmf14@mail.aub.edu
+- 💼 EECE503P – AI Starter Kit Project
+- 💬 Passionate about applied AI, business automation, and conversational interfaces.
 
 ## ⭐ Acknowledgment
 This project was completed as part of the EECE503P/AI Starter Kit course under the guidance of Prof. Ammar Mohanna.
