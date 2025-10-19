@@ -3,6 +3,12 @@
 An AI-powered conversational assistant built for **Tam's Store**, designed to answer customer queries about products, sizing, sustainability practices, and more.  
 This project demonstrates an end-to-end implementation of an **LLM-powered business assistant** integrated with Gradio and deployed on Hugging Face Spaces.
 
+### 🌐 Live Demo
+
+🚀 **Live App:** [Try Tam’s Store Agent on Hugging Face Spaces](https://tamarafakih-tams-store-agent.hf.space/)  
+
+---
+
 ---
 
 ## 📦 Repository Structure
