@@ -103,7 +103,7 @@ You can interact with the assistant, test customer queries, and explore its resp
 
 ## 🎥 Demo Video
 
-🎬 [Watch Demo Video](https://your-demo-video-link-here)
+🎬 [Watch Demo Video]([https://your-demo-video-link-here](https://youtu.be/vTpARF3UPiA))
 
 This short demo showcases the chatbot's interaction flow, API integration, and deployed interface.
 
